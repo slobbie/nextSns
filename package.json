@@ -1,0 +1,15 @@
+{
+  "name": "nextsns-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "author": "slobbie",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.3.1"
+  }
+}
